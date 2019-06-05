@@ -1,3 +1,13 @@
+*/*
+.gitignore
+
+!*.cpp
+!*.hpp
+!*.c
+!*.h
+!*.md
+
+
 # Object files
 *.o
 *.ko
